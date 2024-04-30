@@ -3,7 +3,7 @@ public class Main {
     static int additionOfTwoNumbers(int a, int b) {
         return a + b;
     }
-    static int substractonofTwoNumbers(int c, int d){
+    static int subsOfTwoNumbers(int c, int d){
         return c-d;
     }
 
