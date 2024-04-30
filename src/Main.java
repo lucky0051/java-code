@@ -10,5 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        int addition = additionOfTwoNumbers(10, 30);
+        System.out.println("Addition of 10 and 30 is : " + addition);
     }
 }
