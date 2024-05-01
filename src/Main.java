@@ -7,6 +7,7 @@ public class Main {
         return c-d;
     }
 
+
     public static void main(String[] args) {
         System.out.println("Hello world!");
         int addition = additionOfTwoNumbers(10, 30);
